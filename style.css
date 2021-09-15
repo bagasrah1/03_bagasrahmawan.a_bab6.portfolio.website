@@ -217,7 +217,6 @@ hr{
 footer{
     text-align: center;
     padding: 32px;
-    font-size: 16px;
     background-color: #390041;
     color: white;
 }
@@ -258,7 +257,7 @@ footer{
         height: auto;
     }
     .description{
-        width: 90%;
+        width: 93%;
         height: auto;
     }
 }
