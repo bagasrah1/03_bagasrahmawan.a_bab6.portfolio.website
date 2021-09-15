@@ -247,7 +247,7 @@ footer{
     }
 
     .portfolio-card div{
-        width: 95%;
+        width: 90%;
         margin: 16px;
     }
 
@@ -256,7 +256,7 @@ footer{
         height: auto;
     }
     .description{
-        width: 95%;
+        width: 90%;
         height: auto;
     }
 }
